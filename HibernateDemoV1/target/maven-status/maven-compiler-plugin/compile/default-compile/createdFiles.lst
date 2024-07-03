@@ -1,0 +1,6 @@
+com\mua88\pojo\Category.class
+com\mua88\hibernatedemov1\HibernateDemoV1.class
+com\mua88\hibernatedemov1\HibernateUtils.class
+com\mua88\pojo\Tag.class
+com\mua88\pojo\Product.class
+com\mua88\repository\ProductRepository.class
